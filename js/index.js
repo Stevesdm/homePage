@@ -1,3 +1,5 @@
+"use strict";
+
 var timeOut;
 
 class Item {
